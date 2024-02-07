@@ -40,8 +40,8 @@ nav ul {
 
 nav li {
 
-  border-width: 2px;
-  background-color: beige;
+  border-width: 1px;
+  background-color:lightblue;
   border-style: solid;
   border-color: black;
   font-family: Montserrat;
