@@ -3,16 +3,28 @@ h1 {
   font-size: 50px;
   color: darkred;
   margin-top: 10px;
+  margin-left: 10px;
 }
 
 h2 {
+  margin-left: 10px;
   font-style: italic;
   font-size: 20px;
 }
 
 h3 {
+  margin-left: 10px;
   font-weight: bold;
   margin-top: 30px;
+}
+
+h4 {
+  font-style: italic;
+  margin-top: 20px;
+  font-size: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+  line-height: 50px;
 }
 
 p {
