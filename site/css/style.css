@@ -12,22 +12,21 @@ h2 {
   font-size: 20px;
 }
 
-h3 {
-  margin-left: 10px;
-  font-weight: bold;
-  margin-top: 30px;
-}
-
+h3,
 h4 {
+  text-align: center;
   font-style: italic;
   margin-top: 20px;
   font-size: 30px;
   margin-left: 10px;
   margin-right: 10px;
   line-height: 50px;
+  font-weight: bold;
 }
 
 p {
+  line-height: 1.5;
+  text-align: center;
   margin-left: 10px;
   margin-top: 30px;
   margin-bottom: 30px;
@@ -39,7 +38,6 @@ nav ul {
 }
 
 nav li {
-
   border-width: 1px;
   background-color:lightblue;
   border-style: solid;
